@@ -1,2 +1,1 @@
 All the details that present in this file is related to the private branch that created to test anew feature
-Pull Requests
