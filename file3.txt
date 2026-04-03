@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 handling conflicts in git 
+=======
+conflict practice
+>>>>>>> private
